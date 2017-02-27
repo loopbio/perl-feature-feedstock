@@ -1,0 +1,8 @@
+package:
+  name: perl-feature
+  version: 1.0
+
+build:
+  number: 0
+  track_features:
+    - perl
